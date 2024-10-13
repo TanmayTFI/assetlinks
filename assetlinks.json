@@ -1,0 +1,16 @@
+[
+  {
+    "relation" : [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target" : {
+      "namespace" : "android_app",
+      "package_name" : "com.example.test_android_kanji",
+      "sha256_cert_fingerprints" : [
+        "AB:CC:D6:7E:BD:E7:BE:DC:28:FD:95:03:64:E4:46:E0:BD:8D:BC:09:BA:E4:ED:A0:B6:CD:DC:18:3F:63:AE:9A"
+
+      ]
+    }
+  }
+]
